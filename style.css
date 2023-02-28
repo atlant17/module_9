@@ -1,0 +1,22 @@
+.btn {
+    margin: 1em auto;
+}
+
+#btnClear {
+    margin-left: 100px;
+}
+
+#btnGetCard {
+    margin-right: 100px;
+}
+
+
+#gamecard {
+    margin: 13em auto;
+    background-color: rgba(137, 137, 137, 0.584);
+    color: rgb(82, 7, 7);
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1516024693578-e0623769b752?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwzOTAwNXwwfDF8c2VhcmNofDEyfHxwcmlzb24tYmFyc3xlbnwwfHx8fDE2Nzc1MTQ0MTg&ixlib=rb-4.0.3&q=80&w=1080");
+}
